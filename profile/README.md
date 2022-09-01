@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Como adicionar um projeto a organização
+## Como adicionar um projeto na organização
 
-- Link para os passos: [link](../adicionando-projetos-na-organizacao/adicionando-projetos-na-organizacao.md)
+- Link para os passos: [link](../adicionando-projetos-na-organizacao/adicionando-projetos-na-organizacao.md.md)
