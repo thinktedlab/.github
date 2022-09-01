@@ -13,4 +13,4 @@
 
 ## Como adicionar um projeto na organização
 
-- Link para os passos: [link](../adicionando-projetos-na-organizacao/adicionando-projetos-na-organizacao.md.md)
+- Link para os passos: [link](../adicionando-projetos-na-organizacao/adicionando-projetos-na-organizacao.md)
